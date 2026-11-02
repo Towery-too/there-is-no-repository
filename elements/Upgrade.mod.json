@@ -1,0 +1,21 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": "Items.NETHERITE_UPGRADE",
+    "smithingInputAdditionStack": "Items.NETHERITE_SCRAP",
+    "smithingInputTemplateStack": "CUSTOM:Diamondbrik",
+    "smithingReturnStack": "CUSTOM:Nethebrik",
+    "name": "upgrade",
+    "namespace": "minecraft"
+  }
+}

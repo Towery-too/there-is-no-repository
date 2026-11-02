@@ -1,0 +1,12 @@
+{
+  "_fv": 89,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.1,
+    "scaling": "always",
+    "effects": "hurt",
+    "normalDeathMessage": "%1$s got hit with a nether brick and now ded",
+    "itemDeathMessage": "%1$s got hit by %2$s with nether brick and ded",
+    "playerDeathMessage": "%1$s got hit with a nether brick and now ded with %2$s"
+  }
+}

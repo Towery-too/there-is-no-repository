@@ -1,0 +1,12 @@
+{
+  "_fv": 89,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 99.0,
+    "scaling": "always",
+    "effects": "hurt",
+    "normalDeathMessage": "%1$s got hit by a brick.",
+    "itemDeathMessage": "%1$s was hit by %2$s with brick",
+    "playerDeathMessage": "%1$s got hit by a brick with %2$s"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "CUSTOM:Goldbrik",
+      "CUSTOM:Goldbrik",
+      "",
+      "CUSTOM:Goldbrik",
+      "CUSTOM:Goldbrik",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "recipeReturnStack": "CUSTOM:Brickgold",
+    "name": "briks_2",
+    "namespace": "minecraft"
+  }
+}

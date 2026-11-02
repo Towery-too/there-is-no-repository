@@ -1,0 +1,31 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "CUSTOM:Ironbriks"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "",
+      "CUSTOM:Ironbriks",
+      "",
+      "CUSTOM:Ironbriks",
+      "Items.SLIME_BALL",
+      "CUSTOM:Ironbriks",
+      "",
+      "CUSTOM:Ironbriks",
+      ""
+    ],
+    "recipeReturnStack": "Items.IRON_INGOT",
+    "name": "unbrick_3",
+    "namespace": "mod"
+  }
+}

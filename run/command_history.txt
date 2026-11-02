@@ -1,0 +1,13 @@
+/summon there_is_no_mod:brickgod
+/give @s minecraft:nether_brick
+/give @s there_is_no_mod:nethebrik
+/fill ~ ~ ~ ~ ~ ~ minecraft:end_portal
+/give Dev there_is_no_mod:diamondbrik 64
+/give Dev there_is_no_mod:brickdaimonf 64
+/give Dev there_is_no_mod:brickdaimonf
+/give Dev there_is_no_mod:nethebrik
+/give Dev there_is_no_mod:diamondbrik 64
+/give Dev there_is_no_mod:brickdaimonf
+/give Dev there_is_no_mod:brickdaimonf 64
+/summon wither
+/summon there_is_no_mod:brickgod

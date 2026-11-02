@@ -1,0 +1,21 @@
+{
+  "_fv": 89,
+  "_type": "projectile",
+  "definition": {
+    "projectileItem": "CUSTOM:Nethebrik",
+    "showParticles": true,
+    "actionSound": "entity.arrow.shoot",
+    "igniteFire": false,
+    "disableGravity": false,
+    "disableDiscarding": false,
+    "power": 5.1,
+    "damage": 5.0,
+    "knockback": 5,
+    "entityModel": "Default",
+    "customModelTexture": "nethr_brick.png",
+    "modelWidth": 0.5,
+    "modelHeight": 0.5,
+    "onHitsPlayer": "NetheritesHitsPlayer",
+    "onHitsEntity": "NetheritesHitsPlayer"
+  }
+}
